@@ -1,1 +1,1 @@
-# predict-changes-of-college-admission
+# predict-chances-of-college-admission
